@@ -1,0 +1,112 @@
+# .gitignore for TR-NEWS Chatbot project
+# Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+.dist-info/
+
+# Build / packaging
+build/
+dist/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+.ipynb_checkpoints
+# If you want to keep notebooks but not outputs, consider using nbstripout
+*.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Logs and runtime files
+logs/
+*.log
+*.pid
+*.sqlite3
+
+# Secrets / environment
+.env
+.env.*
+secrets.json
+*.pem
+*.key
+
+# Data, caches, and Hugging Face model caches (may be large)
+# Ignore raw/processed datasets and local caches created during preprocessing
+data/raw/
+data/processed/
+data/**/cache*
+
+# Additional local processed data directories (large)
+data1/processed/
+data2/processed/
+
+*.parquet
+*.arrow
+
+# Model artifacts, checkpoints, adapters, and large outputs
+outputs/
+outputs/**
+models/
+models/**
+checkpoint-*/
+checkpoint*/
+training_args.bin
+pytorch_model.bin
+pytorch_model-*.bin
+adapter_model.safetensors
+*.safetensors
+*.ckpt
+
+# Tokenizer / HF artifacts (often large or auto-generated)
+tokenizer.json
+tokenizer_config.json
+special_tokens_map.json
+spiece.model
+vocab.json
+vocab.txt
+
+# PEFT / LoRA directories that may contain weights
+# (if you keep adapters in repo, remove these lines)
+# outputs/multitask-lora/
+# outputs/multitask-qlora/
+
+# Caches
+.cache/
+__pycache__/
+transformers_cache/
+.huggingface/
+
+# Misc
+*.so
+*.dll
+*.exe
+*.class
+
+# Optional: ignore local vscode workspace settings
+.history/
+
+# End of .gitignore

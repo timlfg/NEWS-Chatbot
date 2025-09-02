@@ -1,0 +1,7 @@
+_______________TODO___________________26.08.2025
+!!![ ] push github
+!![ ] Train_X, train_y .... graph
+!![ ] qa model connect 
+![ ] train_loss, validation_loss etc. 
+[ ] 
+[ ]
